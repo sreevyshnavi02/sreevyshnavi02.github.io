@@ -6,8 +6,8 @@ positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   # name: Position 1 with logo
 - name: PhD student
-- name: Department of Computer Science
-- name: IIT Hyderabad
+# - name: Department of Computer Science
+# - name: IIT Hyderabad
 
 
 email: "sreevyshnavi12@gmail.com"
@@ -37,17 +37,21 @@ education:
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
-  date: Jul. 2024 - present
+  date: Jul. 2024 - Present
 - name: Puducherry Technological University
   logo: /assets/images/badges/ptu-logo.png
   position: B.Tech in Information Technology
   date: 2020 - 2024
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: IIT Hyderabad
+  # logo: /assets/images/badges/PKU_red.png
+  position: Teaching Assistant for Software Development Fundamentals
+  date: Jan. 2025 - Present
+- name: IIT Hyderabad
+  # logo: /assets/images/badges/PKU_red.png
+  position: Teaching Assistant for Introduction to Programming
+  date: Jul. 2024 - Nov. 2024
 
 # awards:
 # - name: Award Name 2
