@@ -21,10 +21,10 @@ github: sreevyshnavi02
 linkedin: sree-vyshnavi
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
-    I am currently working at the intersection of Databases and Program Synthesis.
+    I am a first year PhD student at IIT Hyderabad working under the guidance of <a href="https://aegis-iisc.github.io/">Dr. Ashish Mishra</a>. I am currently working at the intersection of Databases and Program Synthesis.
   </p>
 
 portrait_url: /assets/images/photos/vyshnavi.jpg
