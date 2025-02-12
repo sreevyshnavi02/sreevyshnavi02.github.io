@@ -32,13 +32,13 @@ portrait_caption: >-
   In front of the IITH Tower
 
 education:
-- name: <a href="https://cse.iith.ac.in/">Indian Institute of Technology, Hyderabad</a>
+- name: Indian Institute of Technology, Hyderabad
   logo: /assets/images/badges/iith_logo.jpg
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
   date: Jul. 2024 - Present
-- name: <a href="https://ptuniv.edu.in/">Puducherry Technological University</a>
+- name: Puducherry Technological University
   logo: /assets/images/badges/ptu-logo.png
   position: B.Tech in Information Technology
   date: 2020 - 2024
