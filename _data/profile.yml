@@ -44,13 +44,13 @@ education:
   date: 2020 - 2024
 
 experience:
-- name: IIT Hyderabad
-  # logo: /assets/images/badges/PKU_red.png
-  position: Teaching Assistant for Software Development Fundamentals
+- name: Teaching Assistant
+  logo: /assets/images/badges/iith_logo.jpg
+  position: Course: Software Development Fundamentals
   date: Jan. 2025 - Present
-- name: IIT Hyderabad
-  # logo: /assets/images/badges/PKU_red.png
-  position: Teaching Assistant for Introduction to Programming
+- name: Teaching Assistant
+  logo: /assets/images/badges/iith_logo.jpg
+  position: Course: Introduction to Programming
   date: Jul. 2024 - Nov. 2024
 
 # awards:
